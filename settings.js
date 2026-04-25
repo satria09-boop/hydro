@@ -17,31 +17,31 @@ global.err4r = global.thumbnail
 global.thumb = global.thumbnail
 */
 // ======================== Info Owner ===================== \\
-global.ownername = 'FocaBars'
-global.owner = ['6285187063723', '6288276554694']
-global.ownernomer = '6285187063723'
-global.ownernumber = '6285187063723'
-global.ownerNumber = ["6285187063723@s.whatsapp.net"]
-global.creator = "6285187063723@s.whatsapp.net"
-global.ig = '@focabar'
-global.tele = 'miminhydro'
-global.ttowner = '@focabar'
+global.ownername = 'Satriaaa'
+global.owner = ['6283138086120']
+global.ownernomer = '6283138086120'
+global.ownernumber = '6283138086120'
+global.ownerNumber = ["6283138086120@s.whatsapp.net"]
+global.creator = "6283138086120@s.whatsapp.net"
+global.ig = '@no'
+global.tele = '@ZynSatriaa'
+global.ttowner = '@satriaaa_a25'
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
 global.ownerweb = ""
 
 // ======================== Info Bot ===================== \\
-global.botname = "Asisten Hydro 🌊"
-global.botnumber = '6283867608750'
+global.botname = "FOLLDS - TRAVS"
+global.botnumber = '6283169672912'
 global.websitex = ""
 global.wagc = "https://chat.whatsapp.com/FvSBEz1UezQ4G7Xwfrr9sF"
 global.saluran = "https://whatsapp.com/channel/0029VbAYRBf4o7qSa74h2m0t"
 global.themeemoji = '🏞️'
-global.wm = "Asisten Hydro ||| WhatsApps Bots"
+global.wm = "FOLLDS-TRAVS"
 global.botscript = 'Dah gede nyari sc 🗿🖕'
 global.packname = "HYDRO"
-global.author = "\n\n\n\n\nDibuat Oleh Asisten Hydro\nNo hape/wa : 6283867608750"
-global.sessionName = 'furina'
+global.author = "\n\n\n\n\nDibuat Oleh Asisten Satriaaa\nNo hape/wa : 6283138086120"
+global.sessionName = 'X-Folldsesion'
 global.hituet = 0
 
 // ======================== API Keys ===================== \\
