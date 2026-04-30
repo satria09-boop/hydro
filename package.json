@@ -1,7 +1,7 @@
 {
-  "name": "Hydro-Termux",
-  "version": "1.2.0",
-  "description": "Hydro Support Termux",
+  "name": "Xtravs-Termux",
+  "version": "1.3.0",
+  "description": "Satriaaa Support Termux",
   "main": "index.js",
   "type": "commonjs",
   "engines": {
@@ -16,7 +16,7 @@
     "bot",
     "bot-termux"
   ],
-  "author": "AhmadAkbarID",
+  "author": "Satriaaa",
   "license": "GPLv3",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
